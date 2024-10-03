@@ -12,7 +12,7 @@
  
  I hear you ask: why?
  The primary use case for this data format is, well, storage efficiency. We want to use the least amount of bytes possible while maintaining a string format 
- that also works with *DataStores*.
+ that also works with Roblox's *DataStores*.
  This is a fully functioning alternative to JSON, and it uses 10-60% characters less.
 
  ```
