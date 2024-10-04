@@ -15,7 +15,7 @@
  that also works with Roblox's *DataStores*.
  This is a fully functioning alternative to JSON, and it uses 10-60% characters less.
 
- For anything else than roblox datastores, I recommend using BSON or normal JSON instead.
+ For anything other than roblox datastores, I recommend using BSON or normal JSON instead.
 
  ```
     RSCL                                          JSON                                      
